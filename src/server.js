@@ -1,5 +1,5 @@
 /**
- * Nodest is created using ES6+ syntanx and transpiled by Babel-Node
+ * Nodest is created using ES6+ syntax and transpiled by Babel-Node
  */
 
 import express from 'express';
