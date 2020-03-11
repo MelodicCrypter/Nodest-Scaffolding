@@ -4,6 +4,7 @@
 - HPP
 - CORS
 - HELMET
+- Compression
 - Babel
 - Nodemon
 
