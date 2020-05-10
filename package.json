@@ -1,5 +1,5 @@
 {
-  "name": "nodest-scaffolding",
+  "name": "nodest-scaffolding-typescript",
   "version": "1.1.0",
   "main": "src/server.ts",
   "license": "MIT",

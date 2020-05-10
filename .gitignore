@@ -641,3 +641,4 @@ $RECYCLE.BIN/
 
 # Custom, just exclude everything inside this directory
 .idea/
+.idea
