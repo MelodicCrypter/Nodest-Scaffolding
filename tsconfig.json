@@ -1,0 +1,14 @@
+{
+  "compilerOptions":
+  {
+    "target": "es2018",
+    "module": "commonjs",
+    "sourceMap": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "noEmit": true,
+    "noImplicitAny": false
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": ["node_modules"]
+}
